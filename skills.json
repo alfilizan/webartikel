@@ -1,0 +1,14 @@
+[
+  { "name": "HTML", "icon": "https://img.icons8.com/?size=100&id=20909&format=png&color=000000" },
+  { "name": "CSS", "icon": "https://img.icons8.com/?size=100&id=7gdY5qNXaKC0&format=png&color=000000" },
+  { "name": "Javascript", "icon": "https://img.icons8.com/?size=100&id=108784&format=png&color=000000" },
+  { "name": "Boostrap", "icon": "https://img.icons8.com/?size=100&id=84710&format=png&color=000000" },
+  { "name": "Canva", "icon": "https://img.icons8.com/?size=100&id=iWw83PVcBpLw&format=png&color=000000" },
+  { "name": "Microsoft 365", "icon": "https://img.icons8.com/?size=100&id=g7UKWvv49CoI&format=png&color=000000" },
+  { "name": "Leadership", "icon": "https://img.icons8.com/?size=100&id=cRUUDzrPsADH&format=png&color=000000" },
+  { "name": "Teamwork", "icon": "https://img.icons8.com/?size=100&id=GNjpmJOfO8fT&format=png&color=000000" },
+  { "name": "Research", "icon": "https://img.icons8.com/?size=100&id=qKXvF3P5ZPIu&format=png&color=000000" },
+  { "name": "Marketing", "icon": "https://img.icons8.com/?size=100&id=CSd3UXWP7uYi&format=png&color=000000" },
+  { "name": "Teaching", "icon": "https://img.icons8.com/?size=100&id=VPahQZa1Dl8N&format=png&color=000000" },
+  { "name": "Communication", "icon": "https://img.icons8.com/?size=100&id=8WcKWPK5kPLA&format=png&color=000000" }
+]
